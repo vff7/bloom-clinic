@@ -1,0 +1,1 @@
+node_modules/\n.next/\n.env.local\n.env.*.local\nout/\nbuild/\n*.pem\n.DS_Store\n.vercel\n
